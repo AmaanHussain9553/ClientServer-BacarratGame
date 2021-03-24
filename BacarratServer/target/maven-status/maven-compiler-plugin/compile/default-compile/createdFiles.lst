@@ -1,0 +1,10 @@
+GuiServer.class
+BacarratGameLogic.class
+GuiServer$1.class
+BacarratDealer.class
+BacarratInfo.class
+BacarratGame.class
+Server$ClientThread.class
+Server.class
+Card.class
+Server$TheServer.class
