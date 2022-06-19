@@ -1,6 +1,7 @@
 # Client Server Bacarrat Game
 
 ## Requirements
+* Java Programming Language
 * Java SDK 8 or above
 * Eclipse or IntelliJ IDEA
 * Pom.xml file the shows the dependencies needed 
