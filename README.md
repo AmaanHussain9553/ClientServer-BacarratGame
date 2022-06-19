@@ -15,11 +15,11 @@ Pom.xml file the shows the dependencies needed
 
 ## Server Side
 * Class files that define the rules of the game and the server side:
-*     Card Object
-*     BaccaratDealer Object
-*     BaccaratGameRules Objects
-*     Server Object
-*     GUI_Server Object
-* Uses the thread interface and essential functions such as add(), accept(), updateClients(), and remove(). These functions focus on essential aspects of the server that manages the clients. 
+    * Card Object
+    * BaccaratDealer Object
+    * BaccaratGameRules Objects
+    * Server Object
+    * GUI_Server Object
+    * Uses the thread interface and essential functions such as add(), accept(), updateClients(), and remove(). These functions focus on essential aspects of the server that manages the clients. 
 * Using try catch methods in order to catch exceptions when unable to update or add Clients. 
 * Using Sockets in order to create a pipeline to accept and manage Clients.
